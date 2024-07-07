@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1683904004 source:c:\users\youssef dieaa\clionprojects\temp\main.cpp
+	<tchar.h>
+	<windows.h>
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+
+1684202461 source:d:\study\temp\temp\main.cpp
+	<tchar.h>
+	<windows.h>
+	<tchar.h>
+	<windows.h>
+	<cmath>
+	<iostream>
+	<bits/stdc++.h>
+
